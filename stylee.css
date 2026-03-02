@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    width: 1200px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.head-bosh{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nikname{
+    width: 146px;
+    height: 64px;
+}
+
+.logo{
+    width: 135px;
+    height: 105px;
+}
+
+.buttonlar button{
+    padding: 10px 35px;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gamer{
+    display: flex;
+    justify-content: end;
+}
+
+.gamer img{
+    width: 83px;
+height: 46px;
+}
+
+.game-game{
+    width: 380px;
+    height: 551.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.daraja p{
+    font-size: 22px;
+    color: #EF400F;
+}
+
+.daraja img{
+    width: 170px;
+    height: 36px;
+}
+
+.odiljon h2{
+    font-size: 24px;
+    color: #0E0D5D;
+}
+
+.odiljon h3{
+    font-size: 16px;
+    color: #4b4a4a;
+    margin-top: 20px;
+}
+
+.coin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+    width: 380px;
+    height: 75px;
+    background-color: #EF400F;
+    border-radius: 15px;
+    color: white;
+    font-size: 22px;
+}
+
+.coann{
+    width: 55px;
+    height: 55px;
+}
+
+.pxpxpx{
+    width: 65px;
+    height: 65px;
+}
